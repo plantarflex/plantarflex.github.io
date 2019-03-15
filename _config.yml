@@ -6,14 +6,14 @@
 name: 송민규의 개발노트
 
 # Short bio or description (displayed in the header)
-description: 여기에 좌우명을 써볼까
+description: 개발 말고 의학도 다뤄볼까
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/51116712_109898873468076_7988993595556233216_n.jpg?_nc_cat=110&_nc_ht=scontent-icn1-1.xx&oh=0b1156f64475decb3cf19b16f8b642f5&oe=5D061555
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
@@ -36,10 +36,10 @@ paginate: 5
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email:
-  facebook:
+  email: plantarflex@naver.com
+  facebook: https://www.facebook.com/restful.flask
   flickr:
-  github: 
+  github: https://github.com/plantarflex
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -51,7 +51,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2017 Kiko Now
+footer-text: © 2019 Minkyu Song
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -70,9 +70,10 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl:
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
+
+########################################################################
+# !! You don't need to change any of the configuration flags below !! ##
+########################################################################
 
 permalink: /:title/
 paginate_path: /page:num/

@@ -6,7 +6,7 @@
 name: 송민규의 개발노트
 
 # Short bio or description (displayed in the header)
-description: 개발 말고 의학도 다뤄볼까
+description: 배웠으면 익히자
 
 #
 # Flags below are optional
@@ -37,9 +37,9 @@ footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
   email: plantarflex@naver.com
-  facebook: https://www.facebook.com/restful.flask
+  facebook: restful.flask
   flickr:
-  github: https://github.com/plantarflex
+  github: plantarflex
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
